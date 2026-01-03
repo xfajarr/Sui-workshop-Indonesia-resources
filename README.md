@@ -5,6 +5,7 @@ https://github.com/rifuki/tamagosui
 
 Sui Workshop Jakarta Batch 3
 https://github.com/xfajarr/dokumentasi-sui-developer-indonesia
+https://testnet-suinft.vercel.app/
 
 Sui Workshop Yogyakarta & Solo Batch 1
 https://github.com/xfajarr/sui-move-workshop
