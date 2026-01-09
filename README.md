@@ -10,3 +10,4 @@ https://testnet-suinft.vercel.app/
 Sui Workshop Yogyakarta & Solo Batch 1
 https://github.com/xfajarr/sui-move-workshop
 https://github.com/xfajarr/sui-analogi
+https://github.com/xfajarr/simple-escrow-with-coin
